@@ -17,12 +17,10 @@ export const DATA = {
     "Next.js",
     "Typescript",
     "Node.js",
-
-    "Go",
-    "Postgres",
-    "Docker",
-    "Kubernetes",
-
+    "TailwindCSS",
+    "MongoDB",
+    "GraphQL",
+    "Recoil",
     "C++",
   ],
   navbar: [
